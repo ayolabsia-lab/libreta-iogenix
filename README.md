@@ -1,5 +1,5 @@
 # Redirección
 
-La libreta de entreno iO.GENIX se ha mudado a **https://ayolabsia-lab.github.io/notegym-iogenix/** (repo `ayolabsia-lab/notegym-iogenix`).
+La libreta de entreno iO.GENIX está en **https://notegym-iogenix.github.io/** (repo `notegym-iogenix/notegym-iogenix.github.io`).
 
 Este repo solo redirige la URL antigua y desinstala el service worker viejo.
